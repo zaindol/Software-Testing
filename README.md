@@ -1,12 +1,14 @@
 INDEX -
-1 ) Algorithms
+1 ) Algorithms -
+              
               - Anagram
 
               - Binary Search
 
               - Selection Sort
 
-2 ) Mathematical procedure
+2 ) Mathematical procedure -
+              
               - Contruct 2D Matrix
 
               - Pythagorean Triplet
@@ -17,7 +19,8 @@ INDEX -
 
               - Roman to Int
 
-3 ) Data Structure
+3 ) Data Structure -
+              
               - Remove Linked List Element value
 
 Problem - Control flow Graph Based
